@@ -1,16 +1,24 @@
-**What changed? Why?**
+## Summary
+<!-- What does this PR do and why? -->
 
-**Notes to reviewers**
+## Changes
+-
 
-**How has it been tested?**
+## Type
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Refactor
+- [ ] Documentation
+- [ ] CI/Build
 
-Have you tested the following pages?
+## Testing
+- [ ] Tested locally
+- [ ] Existing tests pass
 
-BaseWeb
-- [] base.org
-- [] base.org/names
-- [] base.org/builders
-- [] base.org/ecosystem
-- [] base.org/name/jesse
-- [] base.org/manage-names
-- [] base.org/resources
+## Related Issues
+<!-- Fixes #123 -->
+
+## Checklist
+- [ ] Code follows project conventions
+- [ ] No hardcoded secrets or credentials
+- [ ] Self-review completed
